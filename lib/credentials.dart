@@ -1,6 +1,7 @@
-class cred{
+class Credentials {
+  Credentials._();
 
-   double appid = 2119034986;
-  String appSignIN = "a451e8684235f1d4fb3349285f3b5aeed8c696a684f400f5c4393261a3427440";
-
+  static int appId = 143332319;
+  static String appSignIn =
+      "676583a1639e1ead36511de1be65f8b3fbcd366d1597d16efff87abce1bd0947";
 }
